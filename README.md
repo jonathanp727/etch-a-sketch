@@ -1,0 +1,1 @@
+Javascript/Jquery practice project from The Odin Project
