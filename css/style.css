@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	margin: 50px auto;
+	border: black 1px solid;
+	width: 560px;
+	height: 560px;
+}
+
+.pixel {
+	display: inline-block;
+	height: 35px;
+	width: 35px;
+	float: left;
+}
+
+button {
+	margin: 20px auto;
+	display: block;
+}
